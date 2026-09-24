@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nome": "Camiseta Básica",
+        "preco": 49.9,
+        "estoque": 10
+    },
+    {
+        "id": 2,
+        "nome": "Calça Jeans",
+        "preco": 129.9,
+        "estoque": 5
+    },
+    {
+        "id": 3,
+        "nome": "Jaqueta de Couro",
+        "preco": 299.9,
+        "estoque": 3
+    }
+]
